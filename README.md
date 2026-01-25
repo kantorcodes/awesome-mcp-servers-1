@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://hol.org/favicon.ico" alt="Hashgraph Online Logo" /> [Hashnet MCP](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI Agent Discovery - search and connect to 59,000+ agents across MCP, NANDA, A2A, OpenRouter, and Virtuals through a single interface.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
